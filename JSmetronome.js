@@ -12,6 +12,8 @@
 * http://www.gnu.org/licenses/gpl-2.0.html
 ***********************************************************/
 
+// test
+
 var JSmetronome = {
 	GUI:{
 		power : document.getElementById("power"),
